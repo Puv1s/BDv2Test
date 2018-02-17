@@ -1,13 +1,13 @@
 [
     {
         "type": "theme",
-        "name": "Example Theme",
+        "name": "Pu Example theme",
         "version": "1.0",
         "authors": [ 
             {
-                "discord_username": "Jiiks",
-                "discord_id": "81388395867156480",
-                "github_username": "Jiiks",
+                "discord_username": "Pu",
+                "discord_id": "116242787980017679",
+                "github_username": "Puv1s",
                 "github_override": false
             } 
         ],
@@ -15,7 +15,7 @@
         "src": "Example",
         "release": {
             "tag": "1.0",
-            "name": "Example Theme 1.0",
+            "name": "Pu Example Theme 1.0",
             "package": "Example.bd"
         }
     }
